@@ -1,0 +1,13 @@
+{
+    "name": "progress-native",
+    "description": "Progress as a cross-platform Desktop app",
+    "version": "0.1.0",
+    "main": "main.js",
+    "devDependencies": {
+        "electron-prebuilt": "^0.26.0",
+        "electron-rebuild": "^0.1.4"
+    },
+    "scripts": {
+        "start": "node_modules/.bin/electron ."
+    }
+}
